@@ -1,0 +1,9 @@
+cffi==1.17.1
+cryptography==45.0.6
+CTkMessagebox==2.7
+customtkinter==5.2.2
+darkdetect==0.8.0
+numpy==2.2.6
+packaging==25.0
+pillow==11.3.0
+pycparser==2.22
