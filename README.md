@@ -7,6 +7,7 @@ A modern, feature-rich file encryption and data protection application with adva
 
 - [Features](#features)
 - [Installation](#installation)
+- [Requirements](#requirements)
 - [Usage](#usage)
   - [Encrypting Files](#encrypting-files)
   - [Decrypting Files](#decrypting-files)
@@ -15,7 +16,7 @@ A modern, feature-rich file encryption and data protection application with adva
   - [Activity Logging](#activity-logging)
 - [Security Features](#security-features)
 - [Technical Details](#technical-details)
-- [Requirements](#requirements)
+
 - [Contributing](#contributing)
 - [License](#license)
 
