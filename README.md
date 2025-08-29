@@ -63,7 +63,7 @@ A modern, feature-rich file encryption and data protection application with adva
 ### Steps
 1. Clone the repository or download the source code:
 ```
-git clone https://github.com/yourusername/secure-vault-pro.git
+git clone https://github.com/Atharva0177/secure-vault-pro.git
 cd secure-vault-pro
 ```
 2. Install the required dependencies:
