@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ```
 3. Run the application:
 ```
-python lock1.py
+python main.py
 ```
 
 
